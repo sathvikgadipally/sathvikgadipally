@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sathvikgadipally
-- 👀 I’m interested in Java, Python, Web Development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Data Science, Artificial Intelligence
+- 🌱 I’m currently learning Data Science
 
 <!---
 sathvikgadipally/sathvikgadipally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
